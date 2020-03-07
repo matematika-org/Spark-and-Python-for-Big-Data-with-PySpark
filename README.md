@@ -1,4 +1,6 @@
-# Python-and-Spark-for-Big-Data
+# Spark and Python for Big Data with PySpark
+
+
 Course Notebooks for Python and Spark for Big Data
 
 Course Outline:
